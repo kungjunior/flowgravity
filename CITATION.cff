@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "FLOW-CM: A Phenomenological Nodal-Conductance Law for Galactic Rotation Curves"
+message: "If you use this work, please cite it using the metadata from this file."
+type: dataset
+authors:
+  - family-names: "Siqueira"
+    given-names: "Eliezer"
+version: "1.0.0"
+date-released: "2026-05-24"
+license: "CC-BY-4.0"
+keywords:
+  - galaxy rotation curves
+  - SPARC
+  - MOND
+  - RAR
+  - modified gravity
+  - nodal conductance
+  - graph current
+  - vacuum flow
+  - solitons
+  - emergent gravity
