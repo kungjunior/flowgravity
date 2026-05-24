@@ -1,0 +1,2 @@
+model,n_perm,mean_true_mse,mean_permuted_mse,mean_delta_permuted_minus_true,mean_wins_true_vs_permuted_frac
+perm_FLOW_harmonic_Qharm,16,397.8179630756387,408.7377895462175,10.919826470578851,0.5578571428571429

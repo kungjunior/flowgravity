@@ -1,4 +1,4 @@
-model_label,model_key,mean_mse,median_mse,mean_rmse,mean_mae,comment,permuted_mean_mse
-Baryonic Newtonian,newton_baryonic,2883.076804686917,1799.802727005997,45.649429157382414,42.682940498667335,Baryons only,
-RAR/MOND benchmark,rar_mond_benchmark,444.5249503788804,193.5259438077436,17.173441435533412,15.222737584523196,External acceleration-relation benchmark,
-Harmonic FLOW-CM,FLOW_tanh_2_harmonic,397.8179630756387,140.94374846229243,16.18669586152926,14.20627204546645,Final nodal-conductance law,408.7377895462175
+model_label,model_key,mean_mse,median_mse,mean_rmse,mean_mae,permuted_mean_mse,comment
+Baryonic Newtonian,newton_baryonic,2883.0768046869175,1799.802727005997,45.649429157382414,42.682940498667335,,Baryonic mass model only
+RAR/MOND benchmark,rar_mond_benchmark,444.5249503788804,193.52594380774357,17.173441435533412,15.222737584523196,,External acceleration-relation benchmark
+Harmonic FLOW-CM,FLOW_tanh_2_harmonic,397.8179630756387,140.94374846229243,16.18669586152926,14.20627204546645,408.7377895462175,Final nodal-conductance law
