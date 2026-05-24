@@ -1,14 +1,22 @@
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 .ipynb_checkpoints/
 
+# Local data
 data/
-*.zip
 *.dat
+*.zip
 
+# Generated outputs
 flow_*_lab/
 publication_assets_FLOW_CM/
+outputs/
+results_raw/
 
+# LaTeX auxiliary files
 *.aux
 *.log
 *.out
@@ -16,5 +24,9 @@ publication_assets_FLOW_CM/
 *.synctex.gz
 *.bbl
 *.blg
+*.fls
+*.fdb_latexmk
 
+# OS
 .DS_Store
+Thumbs.db
